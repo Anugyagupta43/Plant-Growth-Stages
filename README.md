@@ -1,4 +1,3 @@
-# Plant-Growth-Stages
 # 🌱 Predicting Plant Growth Stages with Power BI
 
 This project uses environmental and management data to predict plant growth milestones through interactive dashboards built in **Power BI**. The goal is to uncover patterns and optimal conditions that enhance crop yields and support sustainable agricultural practices.
