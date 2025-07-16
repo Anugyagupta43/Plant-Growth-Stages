@@ -29,7 +29,7 @@ By exploring how these factors influence plant development, we derive data-drive
 ---
 
 ## 🧠 Key Insights & Visuals
-<img width="1252" height="731" alt="image" src="https://github.com/user-attachments/assets/9c9bc174-c570-4e8e-b8f5-e60dce37a255" />
+<img width="1736" height="724" alt="image" src="https://github.com/user-attachments/assets/75677f9c-8da9-4610-b30a-676335c6a24f" />
 
 
 - **Decomposition Tree**: Identifies combinations of variables (e.g., soil + watering frequency) that lead to highest growth.
@@ -37,7 +37,7 @@ By exploring how these factors influence plant development, we derive data-drive
 - **Environmental Conditions**: Optimal ranges for humidity (50–70%) and temperature (20–30°C) maximize plant development.
 - **Growth by Soil Type**: Loam soil paired with daily watering and moderate sun consistently outperformed other conditions.
 
-<img width="1252" height="724" alt="image" src="https://github.com/user-attachments/assets/803ffea6-a3f8-471b-ac0f-f4ece35f4802" />
+<img width="1735" height="721" alt="image" src="https://github.com/user-attachments/assets/9867b7bb-ae52-4830-8f5f-e160d10e417f" />
 
 - **Report Summary**: Clay had the highest sunlight exposure; moderate humidity and temperatures boosted growth by 260% over less ideal conditions.
 - **KPI Cards**: Sunlight, humidity, and temperature averages offer quick-glance metrics to support real-time farm monitoring decisions.
